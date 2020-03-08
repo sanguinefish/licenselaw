@@ -8,57 +8,57 @@ description: "Developmental & Grant Writing Services"
 
 
 # Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
+people: #
+- name: #
+  pic: #
+  position: # 
+  social: #
+    - title: # 
       url: #
-    - title: facebook
+    - title: #
       url: #
-    - title: stack-overflow
+    - title: 
       url: #
 
-- name: Larry Parker
+- name: Raju Basumatary
   pic: 2
-  position: Lead Marketer
+  position: Team Leader
   social:
-    - title: twitter
+    - title: #
       url: #
-    - title: facebook
+    - title: #
       url: #
     - title: linkedin
-      url: #
+      url: in/digifaire
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
+- name: #
+  pic: #
+  position: #
+  social: #
+    - title: #
       url: #
-    - title: facebook
+    - title: #
       url: #
-    - title: google-plus
+    - title: #
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: #
+    url: #
+  - title: #
+    url: #
+  - title: #
+    url: #
+  - title: #
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/digifaire
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: #
+  - line: #
 
 # Build settings
 markdown: kramdown
