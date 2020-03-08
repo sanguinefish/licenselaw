@@ -6,20 +6,7 @@ title: Digifaire
 email: support@digifaire.com
 description: "Developmental & Grant Writing Services"
 
-<!-- 
-# Team names, titles and social links
-people: #
-- name: #
-  pic: #
-  position: # 
-  social: #
-    - title: # 
-      url: #
-    - title: #
-      url: #
-    - title: 
-      url: #
--->
+
 - name: Raju Basumatary
   pic: 2
   position: Team Leader
@@ -31,19 +18,7 @@ people: #
     - title: linkedin
       url: in/digifaire
 
-<!-- 
-- name: #
-  pic: #
-  position: #
-  social: #
-    - title: #
-      url: #
-    - title: #
-      url: #
-    - title: #
-      url: #
 
--->
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: #
