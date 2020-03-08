@@ -1,15 +1,15 @@
 ---
-title: Cognition & Learning
-subtitle: Program Development
+title: Fundraising & Grants 
+subtitle: Developmental Writing
 layout: default
 modal-id: 2
 date: 2020-03-08
-img: cognition.png
-thumbnail: cognition-thumbnail.png
+img: smac.png
+thumbnail: smac-thumbnail.png
 alt: image-alt
-project-date: January 2020
-client: Collaboration
-category: Learning & Productivity
-description: The worldview for the development of this learning program is the application of techniques (based on cognition and neuroscience) to remedy cognitive distortions and boost productivity. 
+project-date: February 2020
+client: STEM Montessori Academy of Canada 
+category: Learning 
+description: The worldview for the development of STEM Montessori Academy of Canada is to complement regular programs with innovative approaches for learning. 
 
 ---
