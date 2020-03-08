@@ -2,61 +2,44 @@ url: https://sanguinefish.github.io
 baseurl: /digifaire_grants/
 
 # Site settings
-title: Digifaire 
+title: Digifaire
 email: support@digifaire.com
 description: "Developmental & Grant Writing Services"
 
-- name: #
-  pic: #
-  position: #
-  social: #
-    - title: #
-      url: #
-    - title: #
-      url: #
-    - title: #
-      url: #
-      
-- name: Raju Basumatary
-  pic: 2
-  position: Team Leader
-  social: #
-    - title: #
-      url: #
-    - title: #
-      url: #
-    - title: #
-      url: #
 
-- name: #
-  pic: #
-  position: #
-  social: #
-    - title: #
-      url: #
-    - title: #
-      url: #
-    - title: #
-      url: #
+# Team names, titles and social links
+#people:
+#  name: Raju Basumatary
+#  pic: 1
+#  position: Chief Operations Officer
+# social:
+# title: LinkedIn
+#  url: https://LinkedIn.com/in/digifaire
+    
+    #- title: facebook
+    #  url: #
+    #- title: stack-overflow
+    #  url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: #
-    url: #
-  - title: #
-    url: #
-  - title: #
-    url: #
-  - title: #
-    url: #
-  - title: github
-    url: http://github.com/digifaire
+# social:
+ # - title: twitter
+ #   url: http://twitter.com/jekyllrb
+ # - title: facebook
+ #   url:
+ # - title: stack-overflow
+ #   url: http://stackoverflow.com/questions/tagged/jekyll
+ # - title: bitbucket 
+ #   url: http://bitbucket.org/jekyll
+ #   title: github
+ #  url: https://github.com/digifaire
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: #
-  - line: #
+# address:
+#  - line: 
+#  - line: 
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
