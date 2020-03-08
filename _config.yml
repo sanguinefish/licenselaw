@@ -8,14 +8,17 @@ description: "Developmental & Grant Writing Services"
 
 
 # Team names, titles and social links
-#people:
-#  name: Raju Basumatary
-#  pic: 1
-#  position: Chief Operations Officer
-# social:
-# title: LinkedIn
-#  url: https://LinkedIn.com/in/digifaire
-    
+<p align="justify">
+
+people:
+name: Raju Basumatary
+pic: 1
+position: Team Leader
+social:
+title: LinkedIn
+url: https://LinkedIn.com/in/digifaire
+
+</p>
     #- title: facebook
     #  url: #
     #- title: stack-overflow
