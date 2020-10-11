@@ -1,6 +1,6 @@
 ---
 title: Funding Management
-subtitle: Organization & Project Development
+subtitle: Proposal Development
 layout: default
 modal-id: 3
 date: 2019-01-01
