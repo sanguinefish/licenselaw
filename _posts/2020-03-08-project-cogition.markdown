@@ -1,6 +1,6 @@
 ---
 title: Fundraising & Grants 
-subtitle: Developmental Writing
+subtitle: Skills Training 
 layout: default
 modal-id: 2
 date: 2020-03-08
@@ -9,6 +9,6 @@ thumbnail: smac-thumbnail.png
 alt: image-alt
 project-date: February 2020
 category: Learning 
-description: The worldview for the development of STEM Montessori Academy of Canada is to complement regular programs with innovative approaches for learning. 
+description: Our hands-on skills training programs are highly responsive to each organization's business processes. The 2-day workshops are designed to help professionals achieve breakthroughs by overcoming knowledge gaps.    
 
 ---
