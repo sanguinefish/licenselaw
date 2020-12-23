@@ -1,5 +1,5 @@
 ---
-title: IRAP, SR&ED & Innovation Funding  
+title: IRAP, SR&ED & Resource Funding  
 subtitle: Tax Credits
 layout: default
 modal-id: 1
