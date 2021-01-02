@@ -1,6 +1,6 @@
 ---
 title: Instruction Design 
-subtitle: Skills & Competency Development 
+subtitle: Skills & Skillsets 
 layout: default
 modal-id: 2
 date: 2020-03-08
