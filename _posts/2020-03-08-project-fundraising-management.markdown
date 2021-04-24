@@ -1,5 +1,5 @@
 ---
-title: Skills & Competency Programs
+title: Skills & Competency Programming
 subtitle: Professional Development
 layout: default
 modal-id: 3
