@@ -1,5 +1,5 @@
 ---
-title: Skills & Competency Advisory
+title: Skills & Competency Programs
 subtitle: Human Resource Development
 layout: default
 modal-id: 3
