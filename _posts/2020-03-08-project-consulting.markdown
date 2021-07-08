@@ -1,6 +1,6 @@
 ---
 title: Certification & Licensing  
-subtitle: Professional Standards & Competency Development
+subtitle: Organizational Development & Certification 
 layout: default
 modal-id: 1
 date: 2020-03-08
