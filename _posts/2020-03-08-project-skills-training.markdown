@@ -1,6 +1,6 @@
 ---
 title: Standards  
-subtitle: Body of Knowledge & Learning Experiences  
+subtitle: Body of Knowledge   
 layout: default
 modal-id: 2
 date: 2020-03-08
