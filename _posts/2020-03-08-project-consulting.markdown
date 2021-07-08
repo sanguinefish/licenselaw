@@ -1,6 +1,6 @@
 ---
 title: Certification & Licensing  
-subtitle: Organizational Development 
+subtitle: Organizational Excellence 
 layout: default
 modal-id: 1
 date: 2020-03-08
