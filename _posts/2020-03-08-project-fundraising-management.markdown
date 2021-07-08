@@ -1,6 +1,6 @@
 ---
 title: Intellectual Property Assets
-subtitle: Codebase Development 
+subtitle: IP Development  
 layout: default
 modal-id: 3
 date: 2019-01-01
