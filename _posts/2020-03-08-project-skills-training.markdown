@@ -1,5 +1,5 @@
 ---
-title: Standards Design 
+title: Standards  
 subtitle: Body of Knowledge & Learning Experiences  
 layout: default
 modal-id: 2
